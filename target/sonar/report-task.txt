@@ -1,0 +1,6 @@
+projectKey=com.wipro:samplesonar
+serverUrl=http://192.168.43.109:9000
+serverVersion=8.4.1.35646
+dashboardUrl=http://192.168.43.109:9000/dashboard?id=com.wipro%3Asamplesonar
+ceTaskId=AXRPg9zvWGNnTlRelGV7
+ceTaskUrl=http://192.168.43.109:9000/api/ce/task?id=AXRPg9zvWGNnTlRelGV7
